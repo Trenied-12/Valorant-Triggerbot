@@ -9,7 +9,7 @@ The Triggerbot uses computer vision to detect enemies on the screen and automati
 2. Open the command prompt (cmd) and type 'java -jar path/to/the/VTB.jar' to start.
 
 # How to Install Java
-1. Download Java (https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe).
+1. Download the Java installer (https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.exe).
 2. Run the downloaded installer.
 3. Follow the installation instructions.
 4. After installation, you can check if Java is correctly installed by opening cmd and typing 'java -version'. If no errors appear, Java should be set up correctly.
