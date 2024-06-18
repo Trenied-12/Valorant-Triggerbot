@@ -5,7 +5,7 @@ This repository includes a Valorant triggerbot designed to automatically shoot e
 The Triggerbot uses computer vision to detect enemies on the screen and automatically shoots when an enemy is in the crosshair. The bot shoots upon detecting a specified color (default is yellow, user-configurable).
 
 # How to Install / Start
-1. Download the latest version of VTB (Valorant TriggerBot) onto your computer. If you haven't installed Java, refer to the guide on 'How to Install Java' below.
+1. Download the latest version of VTB (Valorant TriggerBot) onto your computer. If you haven't installed Java, refer to the guide on 'How to Install Java' (https://github.com/Trenied-12/Valorant-Triggerbot?tab=readme-ov-file#how-to-install-java) below.
 2. Open the command prompt (cmd) and type 'java -jar path/to/the/VTB.jar' to start.
 
 # How to Install Java
