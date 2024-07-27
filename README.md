@@ -6,7 +6,7 @@ The Triggerbot detects enemies on the screen and automatically shoots when an en
 
 # How to Install / Start
 1. Download the latest version of VTB (Valorant TriggerBot) onto your computer.
-2. Open the command prompt (cmd) and type 'java -jar path/to/the/VTB.jar' to start. If you haven't installed Java, refer to the guide on 'How to Install Java' below.
+2. Open the command prompt (cmd) and type 'start java -jar path/to/the/VTB.jar' to start. If you haven't installed Java, refer to the guide on 'How to Install Java' below.
 3. Make sure, you have "Raw Input Buffer" in the settings of Valorant disabled!
 
 # How to Install Java
